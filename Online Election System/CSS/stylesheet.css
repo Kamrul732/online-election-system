@@ -1,0 +1,47 @@
+body{
+   
+    background-image: url("../uploads/download.jfif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #33FF7B;
+
+}
+#headerSection{
+ padding: 10px;
+
+
+}
+#headerSection h1{
+    font-family: cursive;
+}
+input{
+    padding:10px;
+    border: 5px;
+     
+}
+#dropbox{
+    padding:10px;
+    border: 5px;
+
+}
+#loginbtn{
+    padding:5px;
+    border-radius: 5px;
+    background-color:#0652DD ;
+    color:white;
+
+}
+#imagepart{
+    border:2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width:25%;
+
+}
+#role{
+    border:2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width:25%;
+
+}
